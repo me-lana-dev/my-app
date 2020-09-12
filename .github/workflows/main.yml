@@ -34,4 +34,4 @@ jobs:
       # Runs a linter
       - name: Run linter
         run: |
-         make lint
+         npx eslint .
