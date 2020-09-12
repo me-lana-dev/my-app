@@ -1,7 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Node CI](https://github.com/me-lana-dev/my-app/workflows/CI/badge.svg)](https://github.com/me-lana-dev/my-app/actions)
-
 ## Available Scripts
 
 In the project directory, you can run:
