@@ -1,1 +1,7 @@
-.c1{background-color: green;}
+.footer{
+    padding: 15px 0;
+    background: grey;
+    text-align: center;
+}
+.c1{color: #fff;
+    padding-bottom: 0;}

@@ -3,8 +3,10 @@ import * as Style from './style.module.css';
 
 function Footer() {
   return (
-      <footer>
-      <p className={Style.c1}>Footer</p>
+      <footer className={Style.footer}>
+          <div className={"container"}>
+              <p className={Style.c1}>&copy; 2020 Footer</p>
+          </div>
       </footer>
     );
 }

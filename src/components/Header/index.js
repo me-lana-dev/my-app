@@ -3,8 +3,11 @@ import * as Style from './style.module.css';
 
 function Header() {
   return (
-      <header>
-      <p className={Style.c1}>Header</p>
+      <header className={"header"}>
+          <div className={"container"}>
+            <h1 className={Style.c1}>My app</h1>
+              <p>My first (test) app!</p>
+          </div>
       </header>
     );
 }

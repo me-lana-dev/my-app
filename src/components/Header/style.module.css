@@ -1,2 +1,6 @@
-header p {color: red;}
-.c1{background: blue;}
+header{
+    background: #f0f0f0;
+    padding: 20px 0 10px;
+    text-align: center;
+}
+.c1{background: transparent;}
